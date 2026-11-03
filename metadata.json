@@ -1,0 +1,6 @@
+{
+  "name": "Noor-e-Islam",
+  "description": "Comprehensive Islamic Education app featuring Quran with Bengali/English translation, Hadith collections, Namaz & Wudu step-by-step learning, Islamic Academy courses, and Duas & Tasbih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald_dark">#0B3B2B</color>
+    <color name="emerald_primary">#13533E</color>
+    <color name="gold_accent">#D4AF37</color>
+    <color name="gold_light">#FCF6E3</color>
+    <color name="islamic_bg">#F4F8F5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
